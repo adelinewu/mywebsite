@@ -3,54 +3,56 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Library, Information and Archival Management
+    institution: Nanjing University
+    year: 2021
+  - course: BSc in English Language and Literature (minor)
+    institution: Sichuan University
+    year: 2019
+  - course: BSc in Information Resource Management (major)
+    institution: Sichuan University
+    year: 2017
 email: ""
-first_name: Alice
+first_name: Adeline
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Product Management
+- New Media
+- Clerical Work
+- Information Analysis
+- Library Technology & Services
 last_name: Wu
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Nanjing University
+  url: https://www.nju.edu.cn/
+role: Master Candidate
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  icon: feather-pointed
+  icon_pack: fas
+  label: Follow me on LOFTER
+  link: https://heroicromanticism.lofter.com/
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.researchgate.net/profile/Yongzhen-Wu-5
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
+  link: https://github.com/adelinewu
+- icon: square-tumblr
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://strikingtroy.tumblr.com/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Adeline Wu 吴咏真
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Adeline Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
