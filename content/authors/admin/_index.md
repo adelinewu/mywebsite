@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+
 education:
   courses:
   - course: MSc in Library, Information and Archival Management
@@ -34,7 +33,7 @@ social:
     header: true
   icon: feather-pointed
   icon_pack: fas
-  label: Follow me on LOFTER
+  label: Find me on LOFTER
   link: https://heroicromanticism.lofter.com/
 - icon: graduation-cap
   icon_pack: fas
@@ -54,5 +53,5 @@ superuser: true
 title: Adeline Wu 吴咏真
 ---
 
-Adeline Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Adeline Wu is a master candidate of Library, Information and Archival Management at Nanjing University. She is optimistic, outgoing, honest, and friendly. In terms of learning and working, she is rigorous, diligent, and dedicated, always able to excel in completing various daily tasks.
 {style="text-align: justify;"}
