@@ -59,9 +59,10 @@ sections:
       description: Taught electronic engineering and researched semiconductor physics.
       location: California
       title: Professor of Semiconductor Physics
-    title: Experience
+    title: Internship Experience
   design:
     columns: "2"
+  id: experience
 - block: accomplishments
   content:
     date_format: Jan 2006
@@ -167,6 +168,7 @@ sections:
   design:
     columns: "2"
     view: citation
+  id: recent
 - block: collection
   content:
     filters:
