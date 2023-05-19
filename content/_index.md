@@ -9,18 +9,30 @@ sections:
 - block: features
   content:
     items:
-    - description: 90%
-      icon: r-project
+    - description: Great
+      icon: microsoft
       icon_pack: fab
-      name: R
-    - description: 100%
+      name: MS Office
+    - description: Great
+      icon: axure
+      icon_pack: custom
+      name: Axure
+    - description: Good
       icon: chart-line
       icon_pack: fas
-      name: Statistics
-    - description: 10%
-      icon: camera-retro
+      name: SPSS
+    - description: Good
+      icon: tableau
+      icon_pack: custom
+      name: Tableau
+    - description: mostly Photoshop/Audition
+      icon: adobe
+      icon_pack: custom
+      name: Adobe
+    - description: mostly Python/R for NLP
+      icon: code
       icon_pack: fas
-      name: Photography
+      name: Code
     title: Skills
 - block: experience
   content:
