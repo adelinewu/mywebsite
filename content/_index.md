@@ -45,11 +45,13 @@ sections:
       date_start: "2021-07-01"
       description: |2-
           江苏航天七零六信息科技有限公司隶属于中国航天科工二院七〇六所，作为其信创企业总部，在党、政、军相关领域深度参与信创建设。实习期间，我主要负责完成的工作包括：
-          *  **S市市委督办系统项目** 根据市委督查系统需求，运用Axure绘制完整的督办系统模拟原型，并撰写相应的督办系统用户操作手册。您可点击[此处](https://z6ldg3.axshare.com)预览该原型(access code:202108)。
-          *  **S市W区智慧城市治理项目** 结合建设城市大脑智慧平台的需要，搭建智慧城市治理指挥中心。您可点击[此处](https://ycdfav.axshare.com)预览该可视化看板(access code:202108)。
-          * Deploying
+          *  **S市市委督办系统项目** 根据市委督查系统需求，运用Axure绘制完整的督办系统模拟原型，并撰写相应的督办系统用户操作手册。您可点击[此处](https://z6ldg3.axshare.com)预览该项目原型，密码为202108；为配合理解，您可以同时参阅[督办系统用户操作手册](File:///E:/R/mywebsite/themes/starter-hugo-academic/static/uploads/caozuoshouce.pdf)。
+          *  **S市W区智慧城市治理项目** 结合建设城市大脑智慧平台的需要，搭建智慧城市治理指挥中心。您可点击[此处](https://ycdfav.axshare.com)预览该可视化看板，密码为202108。
+          *  **新产品公众号推文** 从应用场景、基本参数、优势特色等方面介绍并推广公司新兴产品。具体内容请您参阅 [天熠TR11A3](https://mp.weixin.qq.com/s/d6mGjJ8xnI2VB0BOHVWkkg) | [天熠TR41A1](https://mp.weixin.qq.com/s/Wg7Ly3ySwT947JGibkMaNw) | [OPS电脑](https://mp.weixin.qq.com/s/8S7iMS0JDJK_TRaFFVRuEg) 
+
       location: 南京
       title: 产品实习生
+      
     - company: University X
       company_logo: org-x
       company_url: ""
