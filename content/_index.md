@@ -38,19 +38,18 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
-      company_logo: org-gc
+    - company: 江苏航天七零六信息科技有限公司
+      company_logo: hangtian
       company_url: ""
-      date_end: ""
-      date_start: "2021-01-01"
+      date_end: "2021-09-01"
+      date_start: "2021-07-01"
       description: |2-
-          Responsibilities include:
-
-          * Analysing
-          * Modelling
+          江苏航天七零六信息科技有限公司隶属于中国航天科工二院七〇六所，作为其信创企业总部，在党、政、军相关领域深度参与信创建设。实习期间，我主要负责完成的工作包括：
+          *  **S市市委督办系统项目** 根据市委督查系统需求，运用Axure绘制完整的督办系统模拟原型，并撰写相应的督办系统用户操作手册。您可点击[此处](https://z6ldg3.axshare.com)预览该原型(access code:202108)。
+          *  **S市W区智慧城市治理项目** 结合建设城市大脑智慧平台的需要，搭建智慧城市治理指挥中心。您可点击[此处](https://ycdfav.axshare.com)预览该可视化看板(access code:202108)。
           * Deploying
-      location: California
-      title: CEO
+      location: 南京
+      title: 产品实习生
     - company: University X
       company_logo: org-x
       company_url: ""
