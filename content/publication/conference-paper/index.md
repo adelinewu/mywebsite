@@ -20,7 +20,7 @@ publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 # publication_types:
 # - "1"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-07-01T00:00:00Z"
 #slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
