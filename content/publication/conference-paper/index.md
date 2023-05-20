@@ -1,33 +1,52 @@
 ---
-abstract: 21世纪信息社会的形成与信息技术本身的快速更迭与包罗万象密不可分。经过长期发展，合理运用技术已经成为图书馆工作中的重要环节。数字图书馆通过大量的技术应用，在结构、处理和访问方面都与以往有所不同。同时，图书馆技术从基于信息和知识向基于互动和经验交流的方向转变也点明了未来图书馆智能化的发展方向。本文首先对国内外学者关于图书馆工作中涉及的技术要素进行探讨的文献进行了回顾，然后从萌发期、快速成长期和转型期这三个建设阶段入手梳理了图书馆关键信息技术的种类和作用机制，并揭示技术间存在的时空联系和协同效应，为图书馆未来的技术工作走向提供思路。
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
+  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
+  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
+  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
+  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
+  Vestibulum sit amet erat at nulla eleifend gravida.
+author_notes:
+- Equal contribution
+- Equal contribution
 authors:
 - admin
-date: "2023-07-01T00:00:00Z"
+- Robert Ford
+date: "2013-07-01T00:00:00Z"
 doi: ""
 featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
-# projects:
-# - example
-publication: In *江苏科技信息*
-publication_short: In *江苏科技信息*
+projects:
+- example
+publication: In *Wowchemy Conference*
+publication_short: In *ICW*
 publication_types:
 - "1"
-publishDate: "2023-07-01T00:00:00Z"
-#slides: example
-summary: 已录用待见刊（预计最快于2023年7月见刊）。
+publishDate: "2017-01-01T00:00:00Z"
+slides: example
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags: []
-title: 21世纪以来我国数字图书馆建设的关键技术研究
-#url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-#url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
-#url_pdf: ""
-#url_poster: ""
-#url_project: ""
-#url_slides: ""
-#url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-#url_video: https://youtube.com
+title: An example conference paper
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_pdf: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+url_video: https://youtube.com
 ---
 
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
 
+{{% callout note %}}
+Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
