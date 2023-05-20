@@ -68,10 +68,10 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - certificate_url: https://www.coursera.org
+    - paper_url: https://www.coursera.org
       date_end: ""
       date_start: "2021-01-25"
-      description: ""
+      description: "see full paper"
       organization: Coursera
       organization_url: https://www.coursera.org
       title: Neural Networks and Deep Learning
