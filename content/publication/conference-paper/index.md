@@ -14,7 +14,7 @@ image:
 publication: In *江苏科技信息*
 publication_short: In *江苏科技信息*
 publication_types:
-- "2"
+- "3"
 publishDate: "2023-07-01T00:00:00Z"
 #slides: example
 summary: 已录用待见刊（预计最快于2023年7月见刊）。
