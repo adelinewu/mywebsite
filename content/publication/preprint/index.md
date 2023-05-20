@@ -17,7 +17,7 @@ projects:
 publication: ""
 publication_short: ""
 publication_types:
-- "2"
+- "3"
 publishDate: "2023-07-01T00:00:00Z"
 #slides: example
 summary: 21世纪以来我国数字图书馆建设的关键技术研究
