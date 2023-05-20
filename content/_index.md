@@ -17,11 +17,11 @@ sections:
       icon: axure
       icon_pack: custom
       name: Axure
-    - description: Good
+    - description: Good {{% staticref "uploads/spssreport.pdf" "newtab" %}}点击预览我的SPSS项目{{% /staticref %}}
       icon: chart-line
       icon_pack: fas
       name: SPSS
-    - description: Good
+    - description: Good 
       icon: tableau
       icon_pack: custom
       name: Tableau
