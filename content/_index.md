@@ -21,7 +21,7 @@ sections:
       icon: chart-line
       icon_pack: fas
       name: SPSS
-    - description: Good 
+    - description: Good | [点击预览我的Tableau项目](https://public.tableau.com/profile/wanda.wu#!/vizhome/5_15926193601640/1)
       icon: tableau
       icon_pack: custom
       name: Tableau
