@@ -9,7 +9,7 @@ sections:
 - block: features
   content:
     items:
-    - description: Great
+    - description: Great | NCRE二级 {{% staticref "uploads/documentwriting.pdf" "newtab" %}}点击预览我的公文写作项目{{% /staticref %}}
       icon: microsoft
       icon_pack: fab
       name: MS Office
