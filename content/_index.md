@@ -141,7 +141,7 @@ sections:
   content:
     subtitle: ""
     text: '{{< gallery album="demo" >}}'
-    title: Gallery
+    title: Painting & Photography
   design:
     columns: "1"
 # - block: collection
