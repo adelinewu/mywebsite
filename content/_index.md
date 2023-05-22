@@ -64,6 +64,31 @@ sections:
   design:
     columns: "2"
   id: experience
+- block: experience
+  content:
+    date_format: Jan 2006
+    items:
+
+    - company: 研究员
+      company_logo: patent
+      company_url: ""
+      date_end: "2022-03-01"
+      date_start: "2022-01-01"
+      description: 内容上，主要负责学术研究现状、产品方案与机制、产品扶持策略和主要任务的研究与阐释；形式上，主要负责会议记录的写作、修改意见的整理和传达以及全过程中与合作公司方的交流和工作对接。
+      location: 南京
+      title: 南京市知识产权密集型产业现状与发展趋势研究
+    - company: 调研员
+      company_logo: library
+      company_url: ""
+      date_end: "2019-05-01"
+      date_start: "2019-02-01"
+      description: 走访了南京图书馆、金陵图书馆和南京市江宁区图书馆三个国家一级图书馆，对图书馆管理人员与到馆读者进行交谈和问卷调查以了解公共图书馆文化服务的发展现状、特点和不足；实地/电邮发放、回收并录入有效问卷共计303份。
+      location: 成都 · 南京
+      title: 国家社科基金重点项目四川大学课题组“公共图书馆公共文化服务质量与服务水平调查”
+    title: Research Project
+  design:
+    columns: "2"
+  id: experience2
 - block: accomplishments
   content:
     date_format: Jan 2006
