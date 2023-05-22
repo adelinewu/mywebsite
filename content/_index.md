@@ -57,7 +57,7 @@ sections:
       company_url: ""
       date_end: "2021-04-01"
       date_start: "2021-01-01"
-      description: 基于全英文工作平台和全英文项目资料，实习期间主要负责中英文相关的有声书音频、文本、商户网页、搜索引擎关键词等资料的筛选、审核、赋分比较、转录相关工作。
+      description: 基于全英文工作平台和全英文项目资料，我在实习期间主要负责中英文相关的有声书音频、文本、商户网页、搜索引擎关键词等资料的筛选、审核、赋分比较、转录相关工作。
       location: 远程
       title: 中文转录实习生
     title: Internship Experience
@@ -70,30 +70,15 @@ sections:
     items:
     - paper_url: https://www.coursera.org
       date_end: ""
-      date_start: "2021-01-25"
-      description: "see full paper"
-      organization: Coursera
-      organization_url: https://www.coursera.org
-      title: Neural Networks and Deep Learning
+      date_start: "2017-09-10"
+      description: "我拥有丰富的多场合板报绘制和活动现场布置经验，并在与各社团负责人的交流对接过程中培养了出色的人际沟通能力。"
+      organization: 干事
+      # organization_url: https://www.coursera.org
+      title: 公共管理学院宣传部/校社团联监察部
       url: ""
-    - certificate_url: https://www.edx.org
-      date_end: ""
-      date_start: "2021-01-01"
-      description: Formulated informed blockchain models, hypotheses, and use cases.
-      organization: edX
-      organization_url: https://www.edx.org
-      title: Blockchain Fundamentals
-      url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    - certificate_url: https://www.datacamp.com
-      date_end: "2020-12-21"
-      date_start: "2020-07-01"
-      description: ""
-      organization: DataCamp
-      organization_url: https://www.datacamp.com
-      title: Object-Oriented Programming in R
-      url: ""
+    
     subtitle: null
-    title: Accomplish&shy;ments
+    title: Campus Practice
   design:
     columns: "2"
 - block: collection
