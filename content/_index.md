@@ -13,7 +13,7 @@ sections:
       icon: microsoft
       icon_pack: fab
       name: MS Office
-    - description: Great
+    - description: Great | 具体项目原型见于实习经历模块{{% staticref "uploads/manual.pdf" "newtab" %}}请搭配督办系统用户操作手册阅读{{% /staticref %}}
       icon: axure
       icon_pack: custom
       name: Axure
