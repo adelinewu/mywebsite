@@ -13,6 +13,9 @@ main:
   - name: Research
     url: '#experience2'
     weight: 20    
+  - name: Initiative
+    url: '#initiative'
+    weight: 20    
   - name: Projects
     url: '#projects'
     weight: 30

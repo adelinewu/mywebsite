@@ -69,6 +69,31 @@ sections:
     date_format: Jan 2006
     items:
 
+    - company: 核心成员
+      company_logo: bookstore
+      company_url: ""
+      date_end: "2020-11-01"
+      date_start: "2019-11-01"
+      description: 完成书店所属行业的发展现状、市场前景、创业可行性调查；提出并优化阅读“打卡-退费”实践、会员俱乐部模式、二手书循环试点活动策划方案；修改润色立项、中期检查与结项阶段的文书材料。{{% staticref "uploads/bookstore.pdf" "newtab" %}}点击此处预览项目汇报{{% /staticref %}}
+      location: 成都
+      title: 省级大学生创新创业项目“榆枋书屋—大学生阅读习惯塑造者”
+    - company: 核心成员
+      company_logo: energy
+      company_url: ""
+      date_end: "2020-11-01"
+      date_start: "2019-11-01"
+      description: 负责信息需求的有效转化，国外零耗能建筑（Zero Energy Building）相关信息检索、案例查找与比较研究，并形成报告；在成都来福士广场开展关于智慧建筑节能举措的实地考察。
+      location: 成都
+      title: 国家级大学生创新创业项目“基于四川大学新能源与低碳技术研究院的微电网研究与设计”
+    title: Initiative
+  design:
+    columns: "2"
+  id: initiative
+- block: experience
+  content:
+    date_format: Jan 2006
+    items:
+
     - company: 研究员
       company_logo: patent
       company_url: ""
