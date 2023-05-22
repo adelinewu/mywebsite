@@ -41,9 +41,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/adelinewu
-- icon: square-tumblr
-  icon_pack: fab
-  link: https://strikingtroy.tumblr.com/
+- icon: table-list
+  icon_pack: fas
+  link: https://adeline-wu.notion.site/7ae75401fc0a4dcb9aac5ad0e227a646
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf

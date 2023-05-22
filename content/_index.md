@@ -103,7 +103,7 @@ sections:
       location: 南京
       title: 南京市知识产权密集型产业现状与发展趋势研究
     - company: 调研员
-      company_logo: library
+      company_logo: thelibrary
       company_url: ""
       date_end: "2019-05-01"
       date_start: "2019-02-01"
