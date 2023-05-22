@@ -148,7 +148,7 @@ sections:
     order: desc
     subtitle: ""
     text: ""
-    title: Recent Posts
+    title: Reports
   design:
     columns: "2"
     view: compact

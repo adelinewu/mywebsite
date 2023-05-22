@@ -16,8 +16,8 @@ main:
   - name: Initiative
     url: '#initiative'
     weight: 20    
-  - name: Projects
-    url: '#projects'
+  - name: Reports
+    url: '#posts'
     weight: 30
   - name: Routine
     url: '#talks'
