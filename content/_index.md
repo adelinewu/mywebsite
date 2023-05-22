@@ -114,23 +114,6 @@ sections:
   design:
     columns: "2"
   id: experience2
-- block: accomplishments
-  content:
-    date_format: Jan 2006
-    items:
-    - paper_url: https://www.coursera.org
-      date_end: ""
-      date_start: "2017-09-10"
-      description: "我拥有丰富的多场合板报绘制和活动现场布置经验，并在与各社团负责人的交流对接过程中培养了出色的人际沟通能力。"
-      organization: 干事
-      # organization_url: https://www.coursera.org
-      title: 公共管理学院宣传部/校社团联监察部
-      url: ""
-    
-    subtitle: null
-    title: Campus Practice
-  design:
-    columns: "2"
 - block: collection
   content:
     count: 5
@@ -153,32 +136,25 @@ sections:
     columns: "2"
     view: compact
   id: posts
-- block: portfolio
-  content:
-    buttons:
-    - name: All
-      tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
-    default_button_index: 0
-    filters:
-      folders:
-      - project
-    title: Projects
-  design:
-    columns: "1"
-    flip_alt_rows: false
-    view: showcase
-  id: projects
-- block: markdown
-  content:
-    subtitle: ""
-    text: '{{< gallery album="demo" >}}'
-    title: Painting & Photography
-  design:
-    columns: "1"
+# - block: portfolio
+#   content:
+#     buttons:
+#     - name: All
+#       tag: '*'
+#     - name: Deep Learning
+#       tag: Deep Learning
+#     - name: Other
+#       tag: Demo
+#     default_button_index: 0
+#     filters:
+#       folders:
+#       - project
+#     title: Projects
+#   design:
+#     columns: "1"
+#     flip_alt_rows: false
+#     view: showcase
+#   id: projects
 # - block: collection
 #   content:
 #     filters:
@@ -205,21 +181,45 @@ sections:
     columns: "2"
     view: citation
   id: recent
-- block: collection
+- block: accomplishments
   content:
-    filters:
-      folders:
-      - event
-    title: Recent & Upcoming Talks
+    date_format: Jan 2006
+    items:
+    - paper_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2017-09-10"
+      description: "我拥有丰富的多场合板报绘制和活动现场布置经验，并在与各社团负责人的交流对接过程中培养了出色的人际沟通能力。"
+      organization: 干事
+      # organization_url: https://www.coursera.org
+      title: 公共管理学院宣传部/校社团联监察部
+      url: ""
+    
+    subtitle: null
+    title: Campus Practice
   design:
     columns: "2"
-    view: compact
-  id: talks
-- block: tag_cloud
+- block: markdown
   content:
-    title: Popular Topics
+    subtitle: ""
+    text: '{{< gallery album="demo" >}}'
+    title: Painting & Photography
   design:
-    columns: "2"
+    columns: "1"
+# - block: collection
+#   content:
+#     filters:
+#       folders:
+#       - event
+#     title: Recent & Upcoming Talks
+#   design:
+#     columns: "2"
+#     view: compact
+#   id: talks
+# - block: tag_cloud
+#   content:
+#     title: Popular Topics
+#   design:
+#     columns: "2"
 - block: contact
   content:
     address:
