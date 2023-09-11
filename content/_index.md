@@ -38,6 +38,20 @@ sections:
   content:
     date_format: Jan 2006
     items:
+    - company: 北京字节跳动科技有限公司
+      company_logo: bytedance
+      company_url: ""
+      date_end: "2023-06-26"
+      date_start: "2023-09-01"
+      description: |2-
+          
+          *  **产品新功能上线** 参与讨论产品功能理想态，协同产品侧收拢规则，形成解决方案，通过AB实验监控内部试点情况。
+          *  **S市W区智慧城市治理项目** 结合建设城市大脑智慧平台的需要，搭建智慧城市治理指挥中心看板。
+          *  **新产品公众号推文** 从应用场景、基本参数、优势特色等方面介绍并推广公司新兴产品。具体内容请您参阅 [天熠TR11A3](https://mp.weixin.qq.com/s/d6mGjJ8xnI2VB0BOHVWkkg) | [天熠TR41A1](https://mp.weixin.qq.com/s/Wg7Ly3ySwT947JGibkMaNw) | [OPS电脑](https://mp.weixin.qq.com/s/8S7iMS0JDJK_TRaFFVRuEg) 
+
+      location: 南京
+      title: 产品实习生
+      
     - company: 江苏航天七零六信息科技有限公司
       company_logo: hangtian
       company_url: ""
@@ -52,18 +66,19 @@ sections:
       location: 南京
       title: 产品实习生
       
-    - company: 软通动力信息技术有限公司
-      company_logo: softstone
-      company_url: ""
-      date_end: "2021-04-01"
-      date_start: "2021-01-01"
-      description: 基于全英文工作平台和全英文项目资料，我在实习期间主要负责中英文相关的有声书音频、文本、商户网页、搜索引擎关键词等资料的筛选、审核、赋分比较、转录相关工作。
-      location: 远程
-      title: 中文转录实习生
+    # - company: 软通动力信息技术有限公司
+    #   company_logo: softstone
+    #   company_url: ""
+    #   date_end: "2021-04-01"
+    #   date_start: "2021-01-01"
+    #   description: 基于全英文工作平台和全英文项目资料，我在实习期间主要负责中英文相关的有声书音频、文本、商户网页、搜索引擎关键词等资料的筛选、审核、赋分比较、转录相关工作。
+    #   location: 远程
+    #   title: 中文转录实习生
     title: Internship Experience
   design:
     columns: "2"
   id: experience
+
 - block: experience
   content:
     date_format: Jan 2006
