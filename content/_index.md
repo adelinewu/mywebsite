@@ -41,8 +41,8 @@ sections:
     - company: 北京字节跳动科技有限公司
       company_logo: bytedance
       company_url: ""
-      date_end: "2023-06-26"
-      date_start: "2023-09-01"
+      date_end: "2023-09-01"
+      date_start: "2023-06-26"
       description: |2-
           
           *  **产品新功能上线** 参与讨论产品功能理想态，协同产品侧收拢规则，形成解决方案，通过AB实验监控内部试点情况。
