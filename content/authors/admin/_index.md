@@ -17,7 +17,7 @@ highlight_name: true
 interests:
 - Product Management
 - New Media
-- Clerical Work
+- Operation
 - Information Analysis
 - Library Technology & Services
 last_name: Wu
