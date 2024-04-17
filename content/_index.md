@@ -38,6 +38,21 @@ sections:
   content:
     date_format: Jan 2006
     items:
+    - company: 博西家用电器（中国）有限公司
+      company_logo: washing
+      company_url: ""
+      date_end: "2023-12-01"
+      date_start: "2024-03-01"
+      description: |2-
+          *  **产品UI/UX设计与优化** 
+运用Figma完成STC（sales task completion）样机申请、智能看板模块的原型产出。
+          *  **产品功能、设计与使用体验优化** 结合销售部需求与实地访店获取的资料，形成STC新版使用方案与2024年的产品路线图。
+          *  **产品技术架构与数据交换分析** 整理项目架构、技术栈，产品接入与给出数据流，表关系等内容，输出一目了然的产品简介文档。
+          *  **产品新媒体宣传** 使用Canva制作数字化分享系列活动的微信公众号宣传图文，最终分享会参与者达500+。
+
+      location: 南京
+      title: 数字化产品经理实习生
+
     - company: 北京字节跳动科技有限公司
       company_logo: bytedance
       company_url: ""
