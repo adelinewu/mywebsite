@@ -41,8 +41,8 @@ sections:
     - company: 博西家用电器（中国）有限公司
       company_logo: washing
       company_url: ""
-      date_end: "2023-12-01"
-      date_start: "2024-03-01"
+      date_end: "2024-03-01"
+      date_start: "2023-12-01"
       description: |2-
           *  **产品UI设计** 运用figma完成STC（sales task completion）样机申请、智能看板模块的原型产出。
           *  **产品功能、设计与使用体验优化** 结合销售部需求与实地访店获取的资料，形成STC新版使用方案与2024年的产品路线图。
